@@ -1,7 +1,7 @@
 discord : mrcryptoo
 <!-- # ⭕ Tic-Tac-Toe -->
 
-[//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
+[//]: # (<img alt="workshop/titactoe" width="1412" src="../.resources/tictactoe.png">)
 
 A standard game of Tic-Tac-Toe in Leo.
 
@@ -58,7 +58,7 @@ leo run new
 ```
 |   |   |   |
 |---|---|---|
-| 0 | 0 | 0 |
+| 0 | 0 |  |
 | 0 | 0 | 0 |
 | 0 | 0 | 0 |
 
