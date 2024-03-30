@@ -13,24 +13,24 @@ A standard game of Tic-Tac-Toe in Leo.
 
 ➖ ➕ ➖ ➕ ➖
 
-❌ ❕ ❌ ❕ ⭕
+❌ ❕ ❌ ❕ 
 
 ## Representing State
 Leo allows users to define composite data types with the `struct` keyword. 
-The game board is represented by a struct called `Board`, which contains three `Row`s.
+The game board is represented by a called `Board`, which contains three `Row`s.
 An alternative representation would be to use an array, however, these are not yet supported in Leo.
 
 ## Language Features
 - `struct` declarations
 - conditional statements
-- early termination. Leo allows users to return from a function early using the `return` keyword.
+- early termination. Leo allows users  return from a function early using the `return` keyword.
 
 ## Running the Program
 
 Leo provides users with a command line interface for compiling and running Leo programs.
 Users may either specify input values via the command line or provide an input file in `inputs/`.
 
-### Providing inputs via the command line.
+### Providing inputs via vommand line.
 1. Run 
 ```bash
 leo run <function_name> <input_1> <input_2> ...
